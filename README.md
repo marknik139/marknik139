@@ -1,9 +1,8 @@
-
-
 <h2 align="center"> "Hello World"
 <img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40">
 
-I am Nikita Markelov    </h2>
+I am Nikita Markelov
+</h2>
 
 <p align='center'>
   <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
@@ -17,18 +16,18 @@ I am Nikita Markelov    </h2>
 
 ## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; **About me**
 
-- 🔭 I’m currently working on my Web development skills.
-- 🌱 I’m currently learning React by building projects.
-- 👯 I’m looking to collaborate on any open source projects using Javascript.
-- 😄 I love exploring and learning new skills as well as implement those in my projects.
-- 📫 How to reach me: **marknik139@gmail.com**
-- ⚡ Fun fact: I also love listening to music while coding.
+- 🔥 I’m currently working on my Web development skills.
+- 🔥 I’m currently learning React by building projects.
+- 🔥 I’m looking to collaborate on any open source projects using Javascript.
+- 🔥 I love exploring and learning new skills as well as implement those in my projects.
+- 🔥 How to reach me: **marknik139@gmail.com**
+- 🔥 Fun fact: I also love listening to music while coding.
 
 
 <br/>
 <hr/>
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">  &nbsp;**Languages:**
+## &nbsp;**Languages:**
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -64,7 +63,7 @@ I am Nikita Markelov    </h2>
 </p>
 
 
-## <img src="https://media4.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif?cid=ecf05e473w3yyq5ltckpc4c6vr4jf9avvh9uao2eswa4v9rk&rid=giphy.gif&ct=s" width="40">  &nbsp;**Tools:**
+## &nbsp;**Tools:**
 <h3 align="left"></h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
@@ -77,19 +76,14 @@ I am Nikita Markelov    </h2>
 
 <p align="center">
 <a href="https://github.com/marknik139">
-  <img height="156em" src="https://github-readme-stats-abhishek-00.vercel.app/api?username=marknik139&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="156em" src="https://github-readme-stats-abhishek-00.vercel.app/api/top-langs/?username=marknik139&layout=compact&langs_count=8&theme=dark"/>
 </a>
-</p>
-
-<p align="center">
- <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=marknik139&theme=dark&hide_border=false"/>
 </p>
 
 <br/>
 <hr/>
 
-## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; **Connect with Me ! 🤝** ️
+## <img src="https://media2.giphy.com/media/numE3A55vbpBuDCxnA/giphy.gif?cid=ecf05e47rze9471w0iriay9ubhrvdmam2cbwpobzooqnsopa&rid=giphy.gif&ct=s" width="40"> &nbsp; Connect with Me ! ️
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nikita-markelov/" target="_blank">
@@ -117,18 +111,3 @@ I am Nikita Markelov    </h2>
 
 
 <br/>
-
-<!--
-**marknik139/marknik139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
